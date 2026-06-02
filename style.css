@@ -511,6 +511,7 @@ blockquote{
   overflow: hidden;
   cursor: pointer;
   color: #2563eb;
+  font-family: 'Ubuntu';
 }
 .button__text {
   width: 80px;
